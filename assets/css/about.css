@@ -1,0 +1,67 @@
+
+            body {
+                font-family: 'Arial', sans-serif;
+                margin: 0;
+                padding: 0;
+                background-color: rgb(156, 213, 196);
+                color: #333;
+            }
+
+            /* header {
+                background-color: #333;
+                color: #fff;
+                text-align: center;
+                padding: 1em;
+            } */
+
+            main {
+                padding: 20px;
+                max-width: 800px;
+                margin: 0 auto;
+            }
+
+            footer {
+                background-color:white;
+                color: black;
+                text-align: center;
+                padding: 1em;
+                position: fixed;
+                bottom: 0;
+                width: 100%;
+            }
+
+            section {
+                margin-bottom: 30px;
+            }
+
+            h2 {
+                color: Arial black;
+                font-size: 2em;
+                margin-bottom: 10px;
+            }
+
+            p {
+                line-height: 1.6;
+                margin-bottom: 15px;
+            }
+
+            .navbar-link {
+                padding-block: 10px;
+                color: var(--eerie-black);
+              }
+            /* Style for a call-to-action button */
+            .cta-button {
+                display: inline-block;
+                padding: 10px 20px;
+                background-color: #4CAF50;
+                color: #fff;
+                text-decoration: none;
+                border-radius: 5px;
+                transition: background-color 0.3s ease;
+            }
+
+            .cta-button:hover {
+                background-color: #5f9f62;
+            }
+         
+        
